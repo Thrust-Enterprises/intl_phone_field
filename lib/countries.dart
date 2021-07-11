@@ -1432,7 +1432,7 @@ const List<Map<String, dynamic>> countries = [
     "flag": "🇿🇦",
     "code": "ZA",
     "dial_code": 27,
-    "max_length": 9
+    "max_length": 10
   },
   {
     "name": "South Sudan",
